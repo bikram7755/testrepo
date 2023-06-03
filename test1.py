@@ -9,6 +9,7 @@ d={
     'crn':'PUR078MSInE003'
 
 }
+print("this is the changed code")
 
 db1=client['college']
 coll=db1['student']
